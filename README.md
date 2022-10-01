@@ -1,2 +1,2 @@
 # naturalife
-Ntauralife Project App and Website
+Naturalife Project App and Website
